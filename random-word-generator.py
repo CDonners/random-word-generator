@@ -56,4 +56,4 @@ Word Lengths:
                 unsuccessful_lengths.append(word_length)
             
         
-generate_letter(6)
+generate_letter(int(input("Enter a minimum word length: ")))
